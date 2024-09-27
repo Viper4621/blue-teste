@@ -1,0 +1,234 @@
+.logo {
+  width: 90px;
+  height: 90px;
+}
+
+.nav-link:hover{
+  color: blue;
+}
+
+.dropdown-item:hover{
+  color: blue;
+}
+
+
+.containerTextos {
+  width: 100%;
+  height: 380px;
+  display: flex;
+  margin-top: 40px;
+  text-align: center;
+  justify-content:center;
+  gap: 200px;
+}
+
+.tituloAbaixo {
+  font-size: 32px;
+}
+
+.textoAbaixo {
+  font-size: 14px;
+  color: grey;
+}
+
+.quemSomos {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  color: white;
+  background-color: blue;
+}
+
+.mapouter{
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.emailBlue{
+ text-decoration: none;
+ color: white;
+}
+
+.forms {
+  display: flex;
+  height: 150px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 150px;
+  color: blue;
+  background-color: yellow;
+}
+
+.rodape{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.serviços{
+  margin-top: 150px;
+}
+
+
+.imagensServiços{
+  width: 250px;
+  height: 200px;
+  margin-top: 30px;
+}
+
+.containerCards{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 30px;
+  margin-top: 20px;
+}
+
+.containerCards2{
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 110px;
+}
+
+.containerCards3{
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 110px;
+}
+
+
+.tituloCards{
+  font-size: 20px;
+}
+
+.card{
+  display: flex;
+  align-items: center;
+  border: none;
+}
+
+
+
+.logos{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+
+.logoSantander{
+  width: 150px;
+  height: 50px;
+}
+
+.logoBrasil{
+  width: 150px;
+  height: 50px
+}
+
+.logoDrogasil{
+  width: 150px;
+  height: 90px
+}
+
+.logoAraco{
+  width: 150px;
+  height: 90px
+}
+
+.logoVr{
+  width: 150px;
+  height: 60px
+}
+.logoJbs{
+  width: 150px;
+  height: 60px
+}
+
+.logoModular{
+  width: 150px;
+  height: 80px
+}
+
+.containerSobre{
+  background-image: url("./assets/Banner-1.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 550px;
+  margin-top: 110px;
+}
+
+.logoBlue{
+  width: 150px;
+  height: 150px;
+}
+
+.textoContainer{
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  font-size: 16px;
+  color: black ;
+  background-color: white;
+  margin-top: 110px;
+}
+
+.textoFinal{
+  margin-top: 50px;
+  margin-left: 15px;
+  margin-right: 15px;
+  display: flex;
+  flex-direction: row;
+  gap: 100px;
+  font-size: 16px;
+}
+
+.finalidade{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 50px;
+  margin-left: 50px;
+  margin-top: 10px;
+}
+
+/* .textoFinalidade{
+  
+} */
+
+
+.direitosFLex{
+  display: flex;
+  flex-direction: row;
+  gap: 35px;
+  margin-left: 15px;
+}
+
+.textoPrivacy{
+  margin-left: 15px;
+  margin-top: 10px;
+}
+
+.tituloPrivacy{
+  color: blue;
+}
+
+.tituloPrincipal{
+  color: blue;
+  text-align: center;
+}
